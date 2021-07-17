@@ -1,0 +1,33 @@
+[
+  {
+    "id": 1,
+    "fullName": "Irina Mineralova",
+    "address": "Moscow, ul. Malaya Pirogovskaya, 1/1",
+    "phoneNumber": "8-900-000-0000",
+    "email": "mineralova@gmail.com"
+  },
+
+  {
+    "id": 2,
+    "fullName": "Sergey Sapozhkov",
+    "address": "Moscow, ul. Malaya Pirogovskaya, 1/1",
+    "phoneNumber": "8-900-000-0001",
+    "email": "sapozhkov@gmail.com"
+  },
+
+  {
+    "id": 3,
+    "fullName": "Diana Abasheva",
+    "address": "Moscow, ul. Malaya Pirogovskaya, 1/1",
+    "phoneNumber": "8-900-000-0002",
+    "email": "abasheva@gmail.com"
+  },
+
+  {
+    "id": 4,
+    "fullName": "Evgeniya Nikolaeva",
+    "address": "Moscow, ul. Malaya Pirogovskaya, 1/1",
+    "phoneNumber": "8-900-000-0003",
+    "email": "nikolaeva@gmail.com"
+  }
+]
